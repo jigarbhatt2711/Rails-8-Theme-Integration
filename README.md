@@ -55,4 +55,4 @@ Organize the main view by dividing the theme into reusable partials in app/views
 ## 🚀 Running the Application
 To start the development server and the asset watcher, run:
 
-./bin/dev
+```./bin/dev```
